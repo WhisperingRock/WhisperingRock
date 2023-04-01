@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @WhisperingRock
+- 👋 Hi, I’m @WhisperingRock (Connor)
 - 👀 I’m interested in fermenting foods and making elegant systems.
-- 🌱 I’m currently learning python, c++, and ruby
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me xpropellorheadx@hotmail.com
+- 🌱 I’m currently learning python and getting my feet wet with ML
 
 <!---
 WhisperingRock/WhisperingRock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
